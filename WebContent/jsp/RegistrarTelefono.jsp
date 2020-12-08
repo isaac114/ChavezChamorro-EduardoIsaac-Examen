@@ -54,7 +54,7 @@
 							</select>
                     	</div>
                     	<div class="form-group">
-    						<INPUT style="font-size: 20px" type="submit" class="btn-info" value="Agregar"> <INPUT style="font-size: 20px" type="reset" class="btn-info" value="Salir">
+    						<INPUT style="font-size: 20px" type="submit" class="btn-info" value="Agregar"> <INPUT onclick="window.location.href='http://localhost:8080/ChavezChamorro-EduardoIsaac-Examen/index.html'" style="font-size: 20px" type="reset" class="btn-info" value="Salir">
     					</div>
                     </form>
 			</div>
