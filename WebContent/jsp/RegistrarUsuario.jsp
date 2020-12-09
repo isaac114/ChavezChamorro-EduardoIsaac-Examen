@@ -34,14 +34,14 @@
                             <input style="font-size: 20px" class="form-control" id="apellido" name="apellido" class="form-control" placeholder="Apellido...">
                             <label style="color: white; font-size: 20px; padding-top: 8px" for="cedula">Cedula</label>
                             <input style="font-size: 20px" class="form-control" id="cedula" name="cedula" class="form-control" placeholder="Cedula...">
-                            <label style="color: white; font-size: 20px; padding-top: 8px" for="cedula">Empresa</label>
+                            
                             <label style="color: white; font-size: 20px; padding-top: 8px" for="correo">Correo Electrónico</label>
                             <input style="font-size: 20px" class="form-control" id="correo" name="correo" class="form-control" placeholder="Correo...">
                             <label style="color: white; font-size: 20px; padding-top: 8px" pxfor="contrasena">Contraseña</label>
                             <input style="font-size: 20px" class="form-control" id="contrasena" name="contrasena" type="password" class="form-control" placeholder="Contraseña...">
                     	</div>
                     	<div class="form-group">
-    						<INPUT style="font-size: 20px" type="submit" class="btn-info" value="Enviar"> <INPUT style="font-size: 20px" type="reset" class="btn-info" value="Resetear">
+    						<INPUT style="font-size: 20px" type="submit" class="btn-info" value="Enviar">
     					</div>
                     </form>
 			</div>
